@@ -1,0 +1,3 @@
+clear
+g++ ../source/main.cpp -o ../bin/sms.exe
+
